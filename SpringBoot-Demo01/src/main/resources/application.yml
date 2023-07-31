@@ -1,0 +1,17 @@
+server:
+  port: 8080
+person:
+  family: father,mather
+  hobby: read,write
+  id: 1
+  map:
+    key1: value1
+    key2: value2
+  name: 王二麻子
+  pet:
+    name: 哈士奇
+    type: dog
+
+student:
+  name: zhangsan
+  age: 18
